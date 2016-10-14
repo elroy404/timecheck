@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+#timecards{
+  height: auto;
+  width: 100%;
+}
+.container{
+  height: auto;
+  width: 25%;
+  float: left;
+  margin: 45px 0px 0px 40px;
+}
+
+#add-time-frame{
+
+  float: left;
+}
